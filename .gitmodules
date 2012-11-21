@@ -1,84 +1,84 @@
 [submodule "src/django-mozilla-product-details"]
 	path = src/django-mozilla-product-details
-	url = git://github.com/fwenzel/django-mozilla-product-details
+	url = https://github.com/fwenzel/django-mozilla-product-details
 [submodule "src/jingo"]
 	path = src/jingo
-	url = git://github.com/jbalogh/jingo.git
+	url = https://github.com/jbalogh/jingo.git
 [submodule "src/schematic"]
 	path = src/schematic
-	url = git://github.com/jbalogh/schematic.git
+	url = https://github.com/jbalogh/schematic.git
 [submodule "src/django-multidb-router"]
 	path = src/django-multidb-router
-	url = git://github.com/jbalogh/django-multidb-router.git
+	url = https://github.com/jbalogh/django-multidb-router.git
 [submodule "src/django-cache-machine"]
 	path = src/django-cache-machine
-	url = git://github.com/jbalogh/django-cache-machine.git
+	url = https://github.com/jbalogh/django-cache-machine.git
 [submodule "src/tower"]
 	path = src/tower
-	url = git://github.com/clouserw/tower.git
+	url = https://github.com/clouserw/tower.git
 [submodule "src/django-cronjobs"]
 	path = src/django-cronjobs
-	url = git://github.com/jsocol/django-cronjobs
+	url = https://github.com/jsocol/django-cronjobs
 [submodule "src/textcluster"]
 	path = src/textcluster
-    url = git://github.com/davedash/textcluster
+    url = https://github.com/davedash/textcluster
 [submodule "src/nuggets"]
 	path = src/nuggets
-    url = git://github.com/mozilla/nuggets.git
+    url = https://github.com/mozilla/nuggets.git
 [submodule "src/commonware"]
 	path = src/commonware
-	url = git://github.com/jsocol/commonware.git
+	url = https://github.com/jsocol/commonware.git
 [submodule "src/jingo-minify"]
 	path = src/jingo-minify
-	url = git://github.com/jsocol/jingo-minify.git
+	url = https://github.com/jsocol/jingo-minify.git
 [submodule "src/sphinxapi"]
 	path = src/sphinxapi
-	url = git://github.com/jsocol/sphinxapi.git
+	url = https://github.com/jsocol/sphinxapi.git
 [submodule "src/django-nose"]
 	path = src/django-nose
-	url = git://github.com/jbalogh/django-nose.git
+	url = https://github.com/jbalogh/django-nose.git
 [submodule "src/test-utils"]
 	path = src/test-utils
-	url = git://github.com/jbalogh/test-utils.git
+	url = https://github.com/jbalogh/test-utils.git
 [submodule "src/slugify"]
 	path = src/slugify
-	url = git://github.com/mozilla/unicode-slugify.git
+	url = https://github.com/mozilla/unicode-slugify.git
 [submodule "src/pyes"]
 	path = src/pyes
-	url = git://github.com/aparo/pyes.git
+	url = https://github.com/aparo/pyes.git
 [submodule "src/elasticutils"]
 	path = src/elasticutils
-	url = git://github.com/mozilla/elasticutils.git
+	url = https://github.com/mozilla/elasticutils.git
 [submodule "src/django"]
 	path = src/django
-	url = git://github.com/django/django.git
+	url = https://github.com/django/django.git
 [submodule "src/statsd"]
 	path = src/statsd
-	url = git://github.com/jsocol/pystatsd.git
+	url = https://github.com/jsocol/pystatsd.git
 [submodule "src/funfactory"]
 	path = src/funfactory
-	url = git://github.com/mozilla/funfactory.git
+	url = https://github.com/mozilla/funfactory.git
 [submodule "src/django-session-csrf"]
 	path = src/django-session-csrf
-	url = git://github.com/mozilla/django-session-csrf.git
+	url = https://github.com/mozilla/django-session-csrf.git
 [submodule "src/django-sha2"]
 	path = src/django-sha2
-	url = git://github.com/fwenzel/django-sha2.git
+	url = https://github.com/fwenzel/django-sha2.git
 [submodule "src/django-mobility"]
 	path = src/django-mobility
-	url = git://github.com/jbalogh/django-mobility
+	url = https://github.com/jbalogh/django-mobility
 [submodule "src/django-waffle"]
 	path = src/django-waffle
-	url = git://github.com/jsocol/django-waffle.git
+	url = https://github.com/jsocol/django-waffle.git
 [submodule "src/haystack"]
 	path = src/haystack
-	url = git://github.com/toastdriven/django-haystack.git
+	url = https://github.com/toastdriven/django-haystack.git
 [submodule "src/pyelasticsearch"]
 	path = src/pyelasticsearch
-	url = git://github.com/toastdriven/pyelasticsearch.git
+	url = https://github.com/toastdriven/pyelasticsearch.git
 [submodule "src/cef"]
 	path = src/cef
-	url = git://github.com/mozilla/cef.git
+	url = https://github.com/mozilla/cef.git
 [submodule "src/django-adminplus"]
 	path = src/django-adminplus
-	url = git://github.com/jsocol/django-adminplus.git
+	url = https://github.com/jsocol/django-adminplus.git
